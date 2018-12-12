@@ -1,0 +1,14 @@
+{
+    "name": "adebayo/tools",
+    "description": "Framework Tools",
+    "type": "composer-plugi",
+    "license": "WTFPL",
+    "authors": [
+        {
+            "name": "HAdebayo",
+            "email": "godwill.hountondji@hetic.net"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
